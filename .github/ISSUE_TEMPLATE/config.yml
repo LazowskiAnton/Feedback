@@ -6,3 +6,6 @@ contact_links:
   - name: OutputSmith documentation
     url: https://lazowskianton.github.io/VSExtensions/outputsmith/
     about: Features, settings and FAQ.
+  - name: LensSmith documentation
+    url: https://lazowskianton.github.io/VSExtensions/lenssmith/
+    about: Features, settings and FAQ.

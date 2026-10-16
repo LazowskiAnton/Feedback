@@ -13,6 +13,7 @@ body:
       options:
         - ColorSmith
         - OutputSmith
+        - LensSmith
     validations:
       required: true
   - type: input
