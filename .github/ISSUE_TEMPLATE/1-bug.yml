@@ -1,0 +1,58 @@
+name: Bug report
+description: Something does not work or looks wrong.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time! Issues are public: replace company, product, project and person names, paths and keys with neutral ones (for example `Contoso`).
+  - type: dropdown
+    id: extension
+    attributes:
+      label: Extension
+      options:
+        - ColorSmith
+        - OutputSmith
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Extension version
+      description: Extensions → Manage Extensions → Installed, or the bottom of the extension's options page.
+      placeholder: "1.0.1"
+    validations:
+      required: true
+  - type: input
+    id: vs
+    attributes:
+      label: Visual Studio version
+      description: Help → About Microsoft Visual Studio.
+      placeholder: "Visual Studio 2026 18.10.3, x64"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected and what you got instead.
+      placeholder: |
+        1. Open a .xaml file with Background="#FF4682B4"
+        2. …
+        Expected: …
+        Actual: …
+    validations:
+      required: true
+  - type: textarea
+    id: sample
+    attributes:
+      label: Code, output or screenshot
+      description: The smallest piece that shows the problem. Paste text as text when you can, so it can be tested.
+      render: text
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy
+      options:
+        - label: I removed private names, paths and keys from everything above.
+          required: true

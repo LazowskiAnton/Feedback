@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ColorSmith documentation
+    url: https://lazowskianton.github.io/VSExtensions/colorsmith/
+    about: Features, settings and FAQ.
+  - name: OutputSmith documentation
+    url: https://lazowskianton.github.io/VSExtensions/outputsmith/
+    about: Features, settings and FAQ.

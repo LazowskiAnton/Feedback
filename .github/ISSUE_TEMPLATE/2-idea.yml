@@ -1,0 +1,37 @@
+name: Idea
+description: A feature you would like to have.
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check the [existing ideas](https://github.com/LazowskiAnton/Feedback/issues?q=is%3Aissue+label%3Aidea) first — if yours is there, add a 👍 to it instead.
+  - type: dropdown
+    id: extension
+    attributes:
+      label: Extension
+      options:
+        - ColorSmith
+        - OutputSmith
+        - A new extension
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What do you want to do
+      description: The task or the annoyance behind the idea — it helps to find the best solution.
+      placeholder: When I …, I have to … every time.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: How it could work
+      description: Your idea of the solution; a sketch or a screenshot of another tool is welcome.
+  - type: textarea
+    id: example
+    attributes:
+      label: Example
+      description: Code or output where it would help. Replace private names with neutral ones.
+      render: text
