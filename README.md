@@ -7,6 +7,7 @@ Bug reports and ideas for my free Visual Studio extensions. The extensions are c
 | **ColorSmith** | Color swatches in the editor and a real color picker. A swatch appears only where the code really defines a color. | [Documentation](https://lazowskianton.github.io/VSExtensions/colorsmith/) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=LazowskiAnton.ColorSmith) |
 | **OutputSmith** | A readable Output window: errors stand out, build and test results at a glance, noise dimmed. | [Documentation](https://lazowskianton.github.io/VSExtensions/outputsmith/) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=LazowskiAnton.OutputSmith) |
 | **LensSmith** | Errors, warnings and messages at the end of their line, the line tinted by the problem — in C#, C++, XAML and more. | [Documentation](https://lazowskianton.github.io/VSExtensions/lenssmith/) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=LazowskiAnton.LensSmith) |
+| **LocaleSmith** | The text behind every .resx key, right where the key is used in C#, XAML and Razor: every translation on hover, missing ones flagged. | [Documentation](https://lazowskianton.github.io/VSExtensions/localesmith/) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=LazowskiAnton.LocaleSmith) |
 
 All extensions are free, have no telemetry and support Visual Studio 2022 and 2026.
 
@@ -43,4 +44,4 @@ There is no promised response time, but every issue is read.
 
 ## Releases
 
-What changed in each version: in the changelog of the extension's documentation ([ColorSmith](https://lazowskianton.github.io/VSExtensions/colorsmith/#changelog), [OutputSmith](https://lazowskianton.github.io/VSExtensions/outputsmith/#changelog), [LensSmith](https://lazowskianton.github.io/VSExtensions/lenssmith/#changelog)).
+What changed in each version: in the changelog of the extension's documentation ([ColorSmith](https://lazowskianton.github.io/VSExtensions/colorsmith/#changelog), [OutputSmith](https://lazowskianton.github.io/VSExtensions/outputsmith/#changelog), [LensSmith](https://lazowskianton.github.io/VSExtensions/lenssmith/#changelog), [LocaleSmith](https://lazowskianton.github.io/VSExtensions/localesmith/#changelog)).

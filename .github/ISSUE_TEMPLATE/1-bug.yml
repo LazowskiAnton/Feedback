@@ -14,6 +14,7 @@ body:
         - ColorSmith
         - OutputSmith
         - LensSmith
+        - LocaleSmith
     validations:
       required: true
   - type: input
