@@ -20,6 +20,7 @@ body:
         - RulerSmith
         - TidySmith
         - SnapSmith
+        - BuildSmith
     validations:
       required: true
   - type: input

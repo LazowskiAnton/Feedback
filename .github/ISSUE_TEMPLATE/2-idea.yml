@@ -20,6 +20,7 @@ body:
         - RulerSmith
         - TidySmith
         - SnapSmith
+        - BuildSmith
         - A new extension
     validations:
       required: true
