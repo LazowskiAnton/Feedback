@@ -22,6 +22,12 @@ body:
         - SnapSmith
         - BuildSmith
         - RegexSmith
+        - HalloweenSmith
+        - ChristmasSmith
+        - LunarNewYearSmith
+        - SakuraSmith
+        - ValentineSmith
+        - StPatrickSmith
     validations:
       required: true
   - type: input
