@@ -21,6 +21,7 @@ body:
         - TidySmith
         - SnapSmith
         - BuildSmith
+        - RegexSmith
         - A new extension
     validations:
       required: true

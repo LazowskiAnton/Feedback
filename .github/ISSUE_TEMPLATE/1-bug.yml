@@ -21,6 +21,7 @@ body:
         - TidySmith
         - SnapSmith
         - BuildSmith
+        - RegexSmith
     validations:
       required: true
   - type: input
