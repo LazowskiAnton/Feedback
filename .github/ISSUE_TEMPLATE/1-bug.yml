@@ -15,6 +15,11 @@ body:
         - OutputSmith
         - LensSmith
         - LocaleSmith
+        - NoteSmith
+        - PackageSmith
+        - RulerSmith
+        - TidySmith
+        - SnapSmith
     validations:
       required: true
   - type: input

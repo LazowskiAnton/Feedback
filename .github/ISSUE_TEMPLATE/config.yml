@@ -1,14 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: ColorSmith documentation
-    url: https://lazowskianton.github.io/VSExtensions/colorsmith/
-    about: Features, settings and FAQ.
-  - name: OutputSmith documentation
-    url: https://lazowskianton.github.io/VSExtensions/outputsmith/
-    about: Features, settings and FAQ.
-  - name: LensSmith documentation
-    url: https://lazowskianton.github.io/VSExtensions/lenssmith/
-    about: Features, settings and FAQ.
-  - name: LocaleSmith documentation
-    url: https://lazowskianton.github.io/VSExtensions/localesmith/
-    about: Features, settings and FAQ.
+  - name: Documentation
+    url: https://lazowskianton.github.io/VSExtensions/
+    about: Features, settings and FAQ of every extension, in 14 languages.
