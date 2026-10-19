@@ -22,6 +22,7 @@ body:
         - SnapSmith
         - BuildSmith
         - RegexSmith
+        - ImageSmith
         - HalloweenSmith
         - ChristmasSmith
         - LunarNewYearSmith
