@@ -23,12 +23,13 @@ body:
         - BuildSmith
         - RegexSmith
         - ImageSmith
-        - HalloweenSmith
         - ChristmasSmith
+        - CyberSmith
+        - HalloweenSmith
         - LunarNewYearSmith
         - SakuraSmith
-        - ValentineSmith
         - StPatrickSmith
+        - ValentineSmith
         - A new extension
     validations:
       required: true
