@@ -11,18 +11,18 @@ body:
     attributes:
       label: Extension
       options:
+        - BuildSmith
         - ColorSmith
-        - OutputSmith
+        - ImageSmith
         - LensSmith
         - LocaleSmith
         - NoteSmith
+        - OutputSmith
         - PackageSmith
-        - RulerSmith
-        - TidySmith
-        - SnapSmith
-        - BuildSmith
         - RegexSmith
-        - ImageSmith
+        - RulerSmith
+        - SnapSmith
+        - TidySmith
         - ChristmasSmith
         - CyberSmith
         - HalloweenSmith
